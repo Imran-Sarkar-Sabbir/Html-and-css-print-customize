@@ -4,6 +4,9 @@
     box-sizing: border-box;
 }
 
+
+/* Documentation */
+/* https://excessivelyadequate.com/posts/print.html */
 @media print {
     @page {
         margin: 0;
